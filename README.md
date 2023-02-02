@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errhythm&label=Profile%20views&color=0e75b6&style=flat-square" alt="errhythm" /> </p>
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/errhythm](https://github.com/errhythm)
 
