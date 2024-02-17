@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/errhythm](https://github.com/errhythm)
 
-- 💬 Ask me about **python, javascript, laravel and wordpress**
+- 💬 Ask me about **Machine Learning, Bangla Language Processing, Python, Filament, Laravel and Wordpress**
 
 - 📫 How to reach me **ehsanur.rahman.rhythm@g.bracu.ac.bd**
 
