@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **ehsanur.rahman.rhythm@g.bracu.ac.bd**
 
-- ⚡ Fun fact **There's no fun**
-
+- ⚡ Currently contributing in <img alt="Jonogon" src="https://jonogon.org/images/icon.svg" width="20" height="20"> [Jonogon](https://jonogon.org)
+  
 - 😄 Pronouns **He/Him**
 
 <h3 align="left">Connect with me:</h3>
