@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning, Bangla Language Processing, Python, Filament, Laravel and Wordpress**
 
-- 📫 How to reach me **ehsanur.rahman.rhythm@g.bracu.ac.bd**
+- 📫 How to reach me **errhythm.me@gmail.com**
 
 - ⚡ Currently contributing in <img alt="Jonogon" src="https://jonogon.org/images/icon.svg" width="20" height="20"> [Jonogon](https://jonogon.org)
   
