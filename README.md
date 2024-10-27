@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=errhythm&label=Profile%20views&color=0e75b6&style=flat-square" alt="errhythm" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis & MERN stack**
+- 🌱 I’m currently learning **MERN stack & Serverless Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/errhythm](https://github.com/errhythm)
 
-- 💬 Ask me about **Machine Learning, Bangla Language Processing, Python, Filament, Laravel and Wordpress**
+- 💬 Ask me about **Machine Learning, Bangla Language Processing, Python, JavaScript, TypeScript, Laravel and Wordpress**
 
 - 📫 How to reach me **errhythm.me@gmail.com**
 
