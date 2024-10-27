@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhythm</h1>
-<h3 align="center">A Computer Science student from Brac University, Bangladesh</h3>
+<h3 align="center">A postgraduate SE from University of Dhaka, Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=errhythm&label=Profile%20views&color=0e75b6&style=flat-square" alt="errhythm" /> </p>
 
