@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **errhythm.me@gmail.com**
 
+- ⚡ Currently working as a Software Engineer in <img alt="DeliveryHobe!" src="https://deliveryhobe.com/images/dh-brand-logo.png" width="20" height="20"> [DeliveryHobe!](https://deliveryhobe.com) and a Research Assistant at <img alt="Brac University" src="https://www.bracu.ac.bd/sites/all/themes/sloth/logo.svg" width="20" height="20"> [Brac University](https://www.bracu.ac.bd)
+
 - ⚡ Currently contributing in <img alt="Jonogon" src="https://jonogon.org/images/icon.svg" width="20" height="20"> [Jonogon](https://jonogon.org)
   
 - 😄 Pronouns **He/Him**
