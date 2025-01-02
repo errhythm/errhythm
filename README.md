@@ -37,3 +37,10 @@
 <p><a href="https://www.buymeacoffee.com/errhythm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="errhythm" /></a><a href="https://ko-fi.com/errhythm"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="errhythm" /></a></p><br><br>
 <h3 align="left">My Trophies:</h3>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=errhythm" alt="errhythm" /></p>
+
+<h3 align="left">My Contributions:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/errhythm/errhythm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/errhythm/errhythm/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/errhythm/errhythm/output/github-snake.svg" />
+</picture>
