@@ -44,6 +44,10 @@
 
 <h3 align="left">My Blogposts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Crafting Your Own Minecraft Bedrock Server: A 2024 Server Setup Guide](https://errhythm.me/blog/minecraft-bedrock-digitalocean)
+- [The Internet Archive Breach: Why your password might be safe!](https://errhythm.me/blog/internet-archive-breach-password-safety-bcrypt)
+- [Effortless WordPress Deployment with Docker-Compose](https://errhythm.me/blog/effortless-wordpress-deployment-docker-compose)
+- [Dummy](https://errhythm.me/blog/dummy-post)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">My Contributions:</h3>
