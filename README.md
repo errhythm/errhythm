@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **errhythm.me@gmail.com**
 
-- ⚡ Currently working as a Software Engineer in <img alt="DeliveryHobe!" src="https://deliveryhobe.com/images/dh-brand-logo.png" width="20" height="20"> [DeliveryHobe!](https://deliveryhobe.com) and <img alt="iF Returns" src="https://ifreturns.com/favicon.png" width="20" height="20"> [iF returns](https://ifreturns.com/)
+- ⚡ Currently working as a Software Engineer in <img alt="iF Returns" src="https://ifreturns.com/favicon.png" width="20" height="20"> [iF returns](https://ifreturns.com/)
 
 - ⚡ Currently contributing in <img alt="Jonogon" src="https://jonogon.org/images/icon.svg" width="20" height="20"> [Jonogon](https://jonogon.org)
 
