@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rhythm</h1>
 <h3 align="center">A postgraduate SWE from University of Dhaka, Bangladesh</h3>
-<h4 align="center">Check out my <a href="https://errhythm.me" target="_blank" rel="noreferrer noopener">website</a> 🌐</h4>
+<h4 align="center">Check out my <a href="https://errhythm.me/?utm_source=github&utm_medium=social&utm_campaign=profile" target="_blank" rel="noreferrer noopener">website</a> 🌐</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=errhythm&label=Profile%20views&color=0e75b6&style=flat-square" alt="errhythm" /> </p>
 
@@ -16,9 +16,9 @@
 
 - ⚡ Currently contributing in <img alt="Jonogon" src="https://jonogon.org/images/icon.svg" width="20" height="20"> [Jonogon](https://jonogon.org)
 
-- 📝 I regularly write articles on [https://errhythm.me/blog/](https://errhythm.me/blog/)
+- 📝 I regularly write articles on [https://errhythm.me/blog/](https://errhythm.me/blog/?utm_source=github&utm_medium=social&utm_campaign=profile)
 
-- 📄 Know about my experiences [https://errhythm.me/resume.pdf](https://errhythm.me/resume.pdf)
+- 📄 Know about my experiences [https://errhythm.me/resume.pdf](https://errhythm.me/resume.pdf?utm_source=github&utm_medium=social&utm_campaign=profile)
   
 - 😄 Pronouns **He/Him**
 
